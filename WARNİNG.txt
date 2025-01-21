@@ -1,0 +1,7 @@
+This program was developed for educational and informational purposes. Port scanning should only be used on networks and systems that you are authorized to use. Malicious activities are against the law and ethical rules.
+
+The author (SenihX) cannot be held responsible for any damage or legal liability that may arise during the use of this program. Users must take into account the applicable laws and regulations when using this program. Misuse of the program is entirely the responsibility of the user.
+
+This software is provided "as is" and no warranty is given. Users assume all risks by using this program.
+
+For any requests or complaints, please contact senihx01@gmail.com
