@@ -26,7 +26,7 @@
 
 5. **Run PortCraft**  
    Start the tool by executing:  
-   ``python3 portcraft.py``
+   ``python3 PortCraft.py``
 
 
 ### **Using PortCraft on Kali Linux**
@@ -49,4 +49,4 @@
 
 5. **Run PortCraft**  
    Execute the following command to run PortCraft:  
-   ``python3 portcraft.py``
+   ``python3 PortCraft.py``
