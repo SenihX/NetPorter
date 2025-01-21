@@ -23,7 +23,6 @@
 4. **Navigate to the Directory and Install Dependencies**  
    Change to the PortCraft directory and install the required dependencies:  
    ``cd PortCraft``  
-   ``pip install -r requirements.txt``
 
 5. **Run PortCraft**  
    Start the tool by executing:  
@@ -47,7 +46,6 @@
 4. **Navigate to the Directory and Install Dependencies**  
    Change to the PortCraft directory and install dependencies:  
    ``cd PortCraft``  
-   ``pip3 install -r requirements.txt``
 
 5. **Run PortCraft**  
    Execute the following command to run PortCraft:  
