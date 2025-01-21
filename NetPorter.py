@@ -13,7 +13,8 @@ def scan_port(ip, port):
         return None
 
 def main():
-    print("PortCraft - Coder By SenihX")
+    print(" ")
+    print("NetPorter - Coder By SenihX")
     print("Github: https://github.com/SenihX")
     print(" ")
     target_ip = input("Enter the target IP address: ").strip()
